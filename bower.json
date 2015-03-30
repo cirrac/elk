@@ -1,0 +1,9 @@
+{
+	"name": "elk",
+	"private": true,
+	"dependencies": {
+		"modernizr": "~2.8.1",
+		"react": "~0.12.2",
+		"materialize": "~0.95.1"
+	}
+}
